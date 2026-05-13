@@ -1,5 +1,8 @@
 # Leicester Healthcare and Education Trends (2012–2022)
 
+Author: Patrycja Oliwia Pyzikiewicz
+Context: Project prepared during a university internship placement in 2022.
+
 Policy-oriented analysis of healthcare and education trends in Leicester using data from the UK Prosperity Index.
 
 ## Skills Used
